@@ -1,6 +1,6 @@
 tensorflow==2.9.0
 numpy==1.21.6
-opencv-python==4.6.0
+opencv-python==4.6.0.66
 Flask==2.2.2
 tensorboard==2.1.1
 tensorflow-estimator==2.1.0
