@@ -1,6 +1,6 @@
 # **Artificial Intelligence Gender Prediction with Eyes Software V1.0 - Emirhan BULUT**
 
-I developed an artificial intelligence software that predicts gender from the eyes, as a result of intense efforts, at today. As an example, I tried my own eye area and the result is amazing! He guessed I was male. I believe it is one of my software that can be used as an example for the national intelligence agencies of countries. The eye area and endpoints are coded by matrix and learned by artificial intelligence. In this way, the ID number and gender of various criminals can be determined from the eye area.
+I developed an artificial intelligence software that predicts gender from the eyes, as a result of intense efforts, at today. As an example, I tried my own eye area and the result is amazing! He guessed I was male. I believe it is one of my software that can be used as an example for the national intelligence agencies of countries. The eye area and endpoints are coded by matrix and learned by artificial intelligence. In this way, the ID number and gender of various criminals can be determined from the eye area..
 
 Thanks!
 
